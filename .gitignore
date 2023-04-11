@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Anagram/obj
+/AnagramLibrary/obj
+/AnagramTestProject/bin/Debug/net6.0
+/AnagramTestProject/obj
+/AnagramLibrary/bin/Debug/net6.0
